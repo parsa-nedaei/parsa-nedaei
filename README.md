@@ -41,7 +41,7 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 ## 🏆 Certifide Badges
 
 <a href="./certificates/LFS101/lfs101-certificate.pdf">
-  <img src="./certificates/LFS101/lfs101-badge.png" width="200">
+  <img src="./certificates/LFS101/lfs101-badge.png" width="250">
 </a>
 
 ## 📫 Let's Connect
