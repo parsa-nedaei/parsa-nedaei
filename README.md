@@ -46,6 +46,7 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p-nedaei)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsanedaei.2001@gmail.com)
+
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
 
 ---
