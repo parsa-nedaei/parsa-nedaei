@@ -51,6 +51,11 @@ I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a h
         <img src="./certificates/LFEL1002/lfel1002-badge.png" width="200">
       </a>
     </th>
+    <th>
+      <a href="./certificates/Qiskit/IBM-Basics of Quantum-Information/Basics/Quantum Information-cert.pdf"> 
+        <img src="./certificates/Qiskit/IBM-Basics of Quantum-Information/Basics/basics-of-quantum-information-badge.png" width="200">
+      </a>
+    </th>
 </tr>  
 </table>
 
