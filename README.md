@@ -36,6 +36,12 @@ I'm Parsa, an amatuer "Electrical Engineer" who is graduated with major in *Tele
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📎Curriculum vitae
+*Click on the banner below, to see my CV*
+
+<a href="https://github.com/parsa-nedaei/parsa-nedaei/blob/main/P.%20Nedaei%20-%20CV%20-%2031%20May%202026.pdf"> 
+        <img src="https://github.com/parsa-nedaei/parsa-nedaei/blob/main/banner%203.png">
+</a>
 
 ## 🏆 Certifide Badges
 
