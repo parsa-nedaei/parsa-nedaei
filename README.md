@@ -1,16 +1,16 @@
 ![Developer Banner 7](https://ishan-rest.vercel.app/svg/banner/dev7/parsa-nedaei/Welcome_To_My_Repo)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&duration=3000&pause=1000&color=02F78F&center=true&vCenter=true&multiline=true&width=1400&height=125&lines=Hi%2C+it's+Parsa;an+amateur+Electrical+Engineer+who+likes+to+build+stuffs;Interested+in+Network+Programming%2C+Embedded+Systems%2C+and+Quantum+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&duration=3000&pause=1000&color=02F78F&center=true&vCenter=true&multiline=true&width=1400&height=150&lines=Hi%2C+it's+Parsa;an+amateur+Electrical+Engineer+who+likes+to+build+stuffs;Interested+in+Telecommunication+Systems%2C+Network+Programming%2C;Embedded+Systems%2C+and+Quantum+Tech)](https://git.io/typing-svg)
 
 ## 🦀 About Me
 
-I'm Parsa, an amatuer "Electrical Engineer" like to build stuffs, whether be a hardware or software. Seeking for solving problems, from software level to fundamental level.
+I'm Parsa, an amatuer "Electrical Engineer" who is graduated with major in *Telecommunication Engineering*. Not sure if I can call myself an Engineer, but I love building stuffs, especially when it comes to **Networks and Communications**.
 
 ## 💡 Interests
 
 - **🛜 Network Programming Enthusiast** - Exploring the inner workings of telecommunication systems
-- **⚛️ Quantum Computing & Information** - Diving into quantum algorithms and information theory
+- **📡 Digital & Wireless Communication Systems** - Exploring the the theorical and pratical aspects of communication systems.
+- **⚛️ Classical & Quantum Information Theory** - Diving into both classical and quantum algorithms and information theory
 - **⚡ Embedded Systems & Circuit Desing** - Building projects with microcontrollers and real-time systems
-- **🔬 Semiconductors** - Understanding the physics and design of electronic components
 
 ## 🛠️ Tech Stack
 ### ⚙️ Primary Tools
