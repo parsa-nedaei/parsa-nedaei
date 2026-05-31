@@ -75,4 +75,5 @@ I'm Parsa, an amatuer "Electrical Engineer" who is graduated with major in *Tele
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=35&duration=3000&pause=1000&color=F7D800&center=true&vCenter=true&width=700&lines=In+software+we+debug%2C+In+hardware+we+trust)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Slabo+27px&size=30&letterSpacing=1px&pause=1000&color=F7F7F7&center=true&width=700&lines=%22Information+is+the+resolution+of+uncertainty.%22)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Slabo+27px&size=21&letterSpacing=1px&pause=5000&color=F7F7F7&center=true&width=700&lines=C.+E.+Shannon)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Slabo+27px&size=21&letterSpacing=1px&pause=5000&color=F7F7F7&center=true&width=700&lines=1916-2001)](https://git.io/typing-svg)
