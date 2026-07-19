@@ -14,7 +14,7 @@ I'm Parsa, an amatuer "Electrical Engineer" who is graduated with major in *Tele
 
 ## 🛠️ Tech Stack
 ### ⚙️ Primary Tools
-[![My Skills](https://skillicons.dev/icons?i=rust,c,bash,linux&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,bash,nix,linux&perline=13)](#)
 
 ### 🪛 Secondary Tools
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=asm&logoColor=white)
@@ -28,9 +28,9 @@ I'm Parsa, an amatuer "Electrical Engineer" who is graduated with major in *Tele
 > [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ## 💻 Machines
+![NixOS](https://img.shields.io/badge/NixOS-00B4D8?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-
 ## ✏️ Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
